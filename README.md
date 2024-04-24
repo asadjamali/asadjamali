@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @asadjamali
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on learning python and data analysis and visualization
+- 👀 I’m an aspiring Data Analyst with a master's degree in economics
+- 💞️ I’m looking to collaborate on learning Python and data analysis and visualization
 - 📫 How to reach :Asadjamali15@gmail.com
 
 <!---
